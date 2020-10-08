@@ -1,13 +1,12 @@
 # About this package
 
+**Package moved to https://github.com/micro-fan/fan_tools**
+
 [![Build Status](https://travis-ci.org/tipsi/tipsi_tools.svg?branch=master)](https://travis-ci.org/tipsi/tipsi_tools)
 [![PyPi version](https://img.shields.io/pypi/v/tipsi_tools.svg)](https://pypi.python.org/pypi/tipsi_tools)
 
 
 Here are set of internal tools that are shared between different projects internally. Originally most tools related to testing, so they provide some base classes for various cases in testing
-
-**NOTE: all our tools are intentially support only 3.5+ python.**
-Some might work with other versions, but we're going to be free from all these crutches to backport things like `async/await` to lower versions, so if it works - fine, if not - feel free to send PR, but it isn't going to be merged all times.
 
 ## Testing helpers
 
